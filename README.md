@@ -2,6 +2,7 @@
 - Python Training
 - Odoo Training
 - Studio training
+- Another basic trainign
 
 #Odoo training
 - MVC
