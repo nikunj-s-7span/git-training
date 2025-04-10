@@ -1,3 +1,4 @@
 # git-training
-- Odoo training
-- python training
+- Python Training
+- Odoo Training
+- Studio training
